@@ -1,4 +1,4 @@
-<keymap version="1" name="Mac OS X 10.5+ websorm" parent="Mac OS X 10.5+">
+<keymap version="1" name="Mac OS X 10.5+ webstorm" parent="Mac OS X 10.5+">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift meta t" />
@@ -7,6 +7,15 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DomCollectionControl.Edit">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
     <mouse-shortcut keystroke="meta button1" />
@@ -17,6 +26,14 @@
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="EditorMoveToPageBottom">
+    <keyboard-shortcut first-keystroke="meta page_down" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorMoveToPageTop">
+    <keyboard-shortcut first-keystroke="meta page_up" />
+    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta l" />
@@ -29,9 +46,15 @@
   <action id="Images.ShowThumbnails" />
   <action id="MethodHierarchy" />
   <action id="MinimizeCurrentWindow" />
+  <action id="RemoteHostView.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta m" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -51,5 +74,8 @@
   <action id="Uml.ShowDiff" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift meta h" />
+  </action>
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
 </keymap>
