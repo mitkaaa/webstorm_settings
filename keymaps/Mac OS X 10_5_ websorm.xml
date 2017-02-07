@@ -7,11 +7,6 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="meta down" />
-    <keyboard-shortcut first-keystroke="f4" />
-    <mouse-shortcut keystroke="button1 doubleClick" />
-  </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
     <mouse-shortcut keystroke="meta button1" />
