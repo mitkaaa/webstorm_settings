@@ -3,7 +3,7 @@
     <property name="created">2017-02-07T12:36:34</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-02-16T12:14:32</property>
+    <property name="modified">2017-02-19T11:22:54</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -1446,10 +1446,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3c3f41" />
+        <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="ffda36" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="f8f8f2" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
