@@ -4,7 +4,9 @@
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping pattern="ывфафыва" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
+      <mapping ext="cxx" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
+      <mapping ext="gzt" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="TypeScript" />
     </extensionMap>
   </component>
