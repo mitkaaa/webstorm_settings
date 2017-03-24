@@ -5,6 +5,7 @@
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping pattern="ывфафыва" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="cxx" type="PLAIN_TEXT" />
       <mapping ext="groovy" type="PLAIN_TEXT" />
