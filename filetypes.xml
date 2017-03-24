@@ -7,6 +7,7 @@
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="cxx" type="PLAIN_TEXT" />
+      <mapping ext="groovy" type="PLAIN_TEXT" />
       <mapping ext="gzt" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="TypeScript" />
     </extensionMap>
