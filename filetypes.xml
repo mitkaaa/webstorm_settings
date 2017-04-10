@@ -7,11 +7,13 @@
       <mapping pattern="ывфафыва" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="basis" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="cxx" type="PLAIN_TEXT" />
       <mapping ext="groovy" type="PLAIN_TEXT" />
       <mapping ext="gzt" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="TypeScript" />
+      <mapping pattern=".basisrc" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
